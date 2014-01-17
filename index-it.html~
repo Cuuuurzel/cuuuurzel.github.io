@@ -1,0 +1,41 @@
+<html lang="en">
+
+	<head>
+		<meta charset="utf-8">
+		<link href="res/main.css" rel="stylesheet" type="text/css">
+		<title> Curzel's </title>
+	</head>
+
+	<body>
+
+		<div class="tile" id="intro">
+			<br>
+			<p class="tile_title" id="header_title">
+				La pagina di Curzel
+			</p>
+			<h3>
+				<a href="index.html"> Go to the english version </a>
+			</h3>
+			<a href="#about"><img class="downArrow" src="res/arrow-down.png"></a> 
+		</div>
+
+		<div class="tile" id="about">
+			<br>
+			<p class="tile_title">
+				Su di me
+			</p>
+			<p>
+E' l'ora delle presentazioni. <br>
+Mi chiamo Federico Curzel, e sono uno studente di informatica all'Università di Trento. <br>
+Adoro programmare app per android, e ho creato questa pagina per pubblicare aggiornamenti sulle mie attività. <br>
+			</p>
+			<h4>
+Se hai bisogno di supporto per un'app, <br>
+devi segnalare un bug, <br>
+hai delle proposte o anche semplicemente per chiaccherare, <br>
+il mio indirizzo email è : <br>
+cuuuurzel@gmail.com 
+			</h4>
+		</div>
+	</body>
+</html>
