@@ -1,0 +1,38 @@
+@font-face {
+  font-family: "Ubuntu";
+  src: url( /res/ubuntu-font-family-0.80 >> Ubuntu-L.ttf ) format( "truetype" );
+}
+
+body {
+	margin: 0px 0px 0px 0px;
+	font-family: "Ubuntu", sans-serif;
+	font-size: 14px;
+	text-align: center;
+}
+
+.tile {
+    position: relative;
+    background: none repeat scroll 0% 0% rgb(255, 255, 255);
+	height: 100%
+}
+
+.tile_title {
+    font-size: 28px;
+}
+
+.downArrow {
+	width: 20%;
+	height: 20%;
+}
+
+#header_title {
+    font-size: 36px;
+}
+
+#intro {
+    background: none repeat scroll 0% 0% rgb( 255, 110, 0 );	
+}
+
+#about {
+    background: none repeat scroll 0% 0% rgb( 255, 110, 50 );
+}

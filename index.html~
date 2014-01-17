@@ -1,0 +1,40 @@
+<html class="google" lang="en">
+
+	<head>
+		<meta charset="utf-8">
+		<link href="res/main.css" rel="stylesheet" type="text/css">
+		<title> Curzel's </title>
+	</head>
+
+	<body>
+
+		<div class="tile" id="intro">
+			<br>
+			<p class="tile_title" id="header_title">
+				Welcome to my own little page!
+			</p>
+			<h4>
+				<a href="index-it.html"> !! Versione Italiana !! </a>
+			</h4>
+			<a href="#about"><img class="downArrow" src="res/arrow-down.png"></a> 
+		</div>
+
+		<div class="tile" id="about">
+			<br>
+			<p class="tile_title">
+				About me
+			</p>
+			<p>
+Time for presentations. <br>
+My name is Federico Curzel, I'm an IT student at the University of Trento. <br>
+I love programming Android applications, and this page is mint to publish updates on my activities. <br>
+			</p>
+			<h4>
+For any need of support or feature request, or just to have a talk my email address is : <br>
+cuuuurzel@gmail.com 
+			</h4>
+			<a href="#about"><img class="downArrow" src="res/arrow-down.png"></a> 
+		</div>
+
+	</body>
+</html>
